@@ -1,0 +1,15 @@
+"D:\Program files\IarARM\arm\bin\armproc.dll" 
+
+"D:\Program files\IarARM\arm\bin\armstlink2.dll" 
+
+"D:\Program files\IarARM\Study\FreeRTOS_LED\FreeRTOS_LED\EWARM\FreeRTOS_LED\Exe\FreeRTOS_LED.out" 
+
+--plugin "D:\Program files\IarARM\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program files\IarARM\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+--flash_loader "D:\Program files\IarARM\arm\config\flashloader\ST\FlashSTM32F100xB.board" 
+
+
+
+
